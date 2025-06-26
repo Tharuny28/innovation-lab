@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>My website</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Skills</a></li>
+                <li><a href="">projects</a></li>
+                <li><a href="">contact</a></li>
+            </ul>
+            </nav>
+        </header>
+        <main>
+            <h1>THARUN Y</h1>
+                <p><h1> Home</h1></p>
+                <p>FrontEnd developer|web designer|UI/UX designer</p>
+                <a href="">Download Resume</a> <a href="">Contact Me</a>
+                <h1>About me</h1>
+                <p> iam an passonate web developer with experience in HTML,CSS,JavaScript<br>I enjoy building responsive and user friendly application</p>
+                <h1>Skills</h1>
+                <ul>
+                   <li>HTML5</li>
+                   <li>CSS3</li>
+                   <li>JavaScript</li>
+                   <li>UI\UX Designer</li>
+                   <li>Web Designer</li>
+            <h1>Projects</h1>
+                <h3>Project 1</h3>
+                <p>kehfwsifg</p>
+                <h3>Project 2</h3>
+                <p>dbgfksfkjasuifw</p>
+                <h3>Project 3</h3>
+                <p>ajhsgduwfdfsuidy</p>
+                <h3>project 4</h3>
+                <p>afdyufasuydfawe</p>
+
+                <h1>Contact me</h1>
+                <p>Name</p>
+                <input type="text" name=""name">
+                <p>Email</p>
+                <input type="text" name=""email">
+                <p>message</p>
+                <textarea></textarea>
+
+                <p><button>submit</button></p>
+                <a href="https://github.com/">Github</a> <a href="https://www.linkedin.com/">linkedin</a> <a href="https://mail.google.com/mail?hl=en">Email</a>
+
+            </main>
+</body>
+</html>
