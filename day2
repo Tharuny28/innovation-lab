@@ -20,7 +20,6 @@
         <main>
             <section id="intro">
             <h1>THARUN Y</h1>
-                <p><h1> Home</h1></p>
                 <p>FrontEnd developer|web designer|UI/UX designer</p>
                 <a href="">Download Resume</a> <a href="">Contact Me</a>
             </section>
@@ -64,6 +63,8 @@
 </html>
 
 
+
+
 css:
 ul{
     display: flex;
@@ -89,6 +90,9 @@ li:hover{
     padding: 10px;
 }
 #intro{
+    display: flex;
     height: 150px;
+  flex-direction: column;
     align-items: center;
+
 }
